@@ -1,0 +1,70 @@
+html{
+  background-color: #81FFE4;
+}
+body{
+  font-family: "Helvetica"; sans-serif;
+  text-align: center;
+  color: #81FFE4;
+  font-size: 26px;
+  background-color: #D3348A;
+  padding: 10px;
+  border-width: 10px;
+  border-style: solid;
+  border-radius: 20px;
+  border-color: #FFD354;
+  max-width: 600px;
+  margin: auto;
+  margin-top: 30px;
+  margin-bottom: 50px;
+  min-height: 450px;
+}
+
+
+h1{
+
+  font-size: 60px;
+  margin-bottom: 5px;
+  margin-top: 15px;
+}
+button {
+  border-style: solid;
+  border-color: #FFD354;
+  color: #81FFE4;
+  background-color: #D3348A;
+  font-size: 36px;
+  border-radius: 10px;
+  border-width: 4px;
+}
+#timer-el {
+  font-size: 36px;
+  border-width: 4px;
+  border-style: solid;
+  border-color: #FFD354;
+  margin-left: 225px;
+  margin-right: 225px;
+  border-radius: 10px;
+}
+
+
+input{
+  width: 150px;
+  border-style: solid;
+  border-color: #FFD354;
+  color: #81FFE4;
+  background-color: #D3348A;
+  font-size: 36px;
+  border-radius: 10px;
+  margin-left: 0px;
+  text-align: center;
+  border-width: 4px;
+}
+p{
+  margin: 15px;
+}
+#message-el{
+  font-weight:100;
+}
+#prev-wpm-el{
+  font-size: 20px;
+  font-style: italic;
+}
